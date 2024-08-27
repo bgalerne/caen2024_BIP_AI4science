@@ -1,1 +1,1 @@
-# caen2024_BIP_AI4science
+[Website for the course on my personal webpage](https://www.idpoisson.fr/galerne/caen2024/index.html)
